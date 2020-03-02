@@ -1,6 +1,6 @@
 package selfmadeCode;
 
-public class 현대오토에버1 {
+public class 오토에버1 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

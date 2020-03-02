@@ -1,6 +1,6 @@
 package selfmadeCode;
 
-public class 현대오토에버3 {
+public class 오토에버3 {
 	
 	// 델타 함수(상하좌우 순서)
 	static int [] dr = {-1,1,0,0};

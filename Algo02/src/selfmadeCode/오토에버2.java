@@ -7,7 +7,7 @@ import java.util.HashSet;
 import java.util.PriorityQueue;
 import java.util.StringTokenizer;
 
-public class 현대오토에버2 {
+public class 오토에버2 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
